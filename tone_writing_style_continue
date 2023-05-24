@@ -1,0 +1,66 @@
+Tone Example:
+Please write in authoritative tone.
+Please write in clinical tone.
+Please write in cold tone.
+
+Writing Style Example:
+Please write in academic writing style.
+Please write in analytical writing style.
+Please write in argumentative writing style.
+
+Tone & Writing style Example:
+Please write in authoritative tone, academic writing style.
+
+Continue prompts:
+Continue writing please.
+Please clarify it.
+Please exemplify it.
+Please expand it.
+Please explain it.
+Please rewrite it.
+Please shorten it.
+
+Tone:
+Default: no tone
+Authoritative
+Clinical
+Cold
+Confident
+Cynical
+Emotional
+Empathetic
+Formal
+Friendly
+Humorous
+Informal
+Ironic
+Optimistic
+Pessimistic
+Playful
+Sarcastic
+Serious
+Sympathetic
+Tentative
+Warm
+
+Writing style:
+Default: no writing style
+Academic
+Analytical
+Argumentative
+Conversational
+Creative
+Critical
+Descriptive
+Epigrammatic
+Epistolary
+Expository
+Informative
+Instructive
+Journalistic
+Metaphorical
+Narrative
+Persuasive
+Poetic
+Satirical
+Technical
